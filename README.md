@@ -3,8 +3,8 @@ O-propargyl-puromycin is a chemical tag that can be added to living cells and is
 
 The problem with this method is identifying genuinely labelled proteins, from non-specifc binders and background noise. This project attempts to identfiy OPP-labelled proteins by measuring the absence of C-terminal peptides as a result of OPP induced translation termination.
 
-This analysis was initially part of a bachelor's thesis project, however was extended after an improved dataset became availible here https://proteomecentral.proteomexchange.org/cgi/GetDataset?ID=PXD043498
-(PRIDE project PXD043498)
-The experiment includes Glial Cells from Rattus norvegicus with 2 unlabelled controls and 2 OPP labelled, biotinylated and purified samples.
+This analysis was initially part of a bachelor's thesis project, however was extended after an improved dataset became availible here https://proteomecentral.proteomexchange.org/cgi/GetDataset?ID=PXD043498 (PRIDE project PXD043498)
+
+The experimental setup includes neural cells from Rattus norvegicus with 2 unlabelled controls and 2 OPP labelled, biotinylated and purified samples.
 
 Two approaches were used to measure "N-terminal enrichment" of each protein. Details of which can be found in the presentation slides.
