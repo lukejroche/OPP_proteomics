@@ -7,4 +7,4 @@ This analysis was initially part of a bachelor's thesis project, however was ext
 
 The experimental setup includes neural cells from Rattus norvegicus with 2 unlabelled controls and 2 OPP labelled, biotinylated and purified samples.
 
-Two approaches were used to measure "N-terminal enrichment" of each protein. Details of which can be found in the presentation slides.
+Two approaches were used to measure "N-terminal enrichment" of each protein. Details of which can be found in the presentation slides. The first approach was unsucessful in identifying enriched proteins, due to weak statistical power at the protein level. Hoever, the second method, calculated at the peptide level, was able to identify > 300 significantly enriched peptides with FDR score < 0.05.
